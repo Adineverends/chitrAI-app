@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885489706340",
+    "project_id": "chitrai-7e113",
+    "storage_bucket": "chitrai-7e113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885489706340:android:c8da22beeb4433c48d0671",
+        "android_client_info": {
+          "package_name": "com.chitraiapp.chitrai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885489706340-v63k1trt1ugucnjlsosqedh649u3sbav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85T7BqJP7gPUhbug7Xvp8Z_JFvikzcK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885489706340-v63k1trt1ugucnjlsosqedh649u3sbav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
